@@ -1,0 +1,21 @@
+The code requires Java v1.6.
+
+The code has been tested on Windows, Linux and Mac systems.
+
+To run the code on a Linux system, do:
+
+>tar xvf IGMtransmission.tar    %this untars the file and creates the directory tree
+
+>java -jar IGMtransmission.jar  %this executes the java GUI
+
+Click on the Help tab for user instructions.
+
+A description of the design and operation of the code is provided in:
+doc/IGMtransmission.pdf.
+
+The code is licensed under GNU General Public License, Version 3.
+
+
+
+
+
