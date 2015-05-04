@@ -4,7 +4,9 @@ The code has been tested on Windows, Linux and Mac systems.
 
 To run the code on a Linux system, do:
 
->tar xvf IGMtransmission.tar    %this untars the file and creates the directory tree
+> tar xvf IGMtransmission.tar    %this untars the file and creates the directory tree
+
+> mkdir output                   % this creates  the subdirectory "output" for containing files output by the code
 
 >java -jar IGMtransmission.jar  %this executes the java GUI
 
